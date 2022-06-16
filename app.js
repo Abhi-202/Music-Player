@@ -6,7 +6,7 @@ const songs = [
         id:'1',
         songName:   `It's You <br>
         <div class="subtitle">Ali Gate</div>`,
-        poster:"img/1.jpg"
+        poster:"img/1.webp"
     },
     {
         id:'2',
